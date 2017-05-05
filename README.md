@@ -2,4 +2,4 @@
 
 Xcode devices support directory path:
 
-* /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/DeviceSupport *
+**/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/DeviceSupport**
